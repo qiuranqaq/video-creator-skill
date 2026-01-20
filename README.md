@@ -32,14 +32,16 @@ video-creator/
 
 ## 🚀 如何安装 (Installation)
 
-1.  确保你已安装并配置好 Gemini CLI 环境。
-2.  找到你的 Gemini 扩展目录（通常在 `~/.gemini/extensions/`）。
-3.  将本仓库克隆或解压到该目录下：
-    ```bash
-    git clone https://github.com/your-username/video-creator.git ~/.gemini/extensions/video-creator
-    ```
-4.  重启 Gemini CLI，即可通过以下指令激活：
-    > "激活 video-creator" 或 "帮我写个视频脚本..."
+在 Gemini CLI 中，直接运行以下命令即可一键安装并启用：
+
+```bash
+/extension install https://github.com/QiuranQAQ/Video-Creator-Skill.git
+```
+
+安装完成后，你可以通过以下指令激活：
+> "激活 video-creator" 或直接说 "帮我写个视频脚本..."
+
+---
 
 ## 🛠️ 使用示例
 
