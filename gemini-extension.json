@@ -1,0 +1,6 @@
+{
+  "name": "video-creator",
+  "version": "2.0.0",
+  "description": "全能视频创作大师 - 融合故事叙事、产品营销与病毒传播逻辑，支持 2D/3D/实拍/AI 全流程脚本与分镜生成",
+  "contextFileName": "GEMINI.md"
+}
