@@ -49,41 +49,37 @@
 
 *   **2D 动画 (Silent/Narrative)**:
 
-
-
-    *   **Action**: 读取 `.gemini/extensions/video-creator/reference/REF_2D_ANIMATION.md`
-
-
+    *   **Action**: 读取 `./reference/REF_2D_ANIMATION.md`
 
     *   **Focus**: 肢体语言、节奏剪辑、图形转场、旁白/动态文字同步。
 
 *   **3D 动画 (Product/Commercial)**:
 
-    *   **Action**: 读取 `.gemini/extensions/video-creator/reference/REF_3D_PRODUCT.md`
+    *   **Action**: 读取 `./reference/REF_3D_PRODUCT.md`
 
     *   **Focus**: 材质展示、爆炸图 (Exploded View)、连贯运镜。
 
 *   **AI 生成 (AIGC/Gen-AI)**:
 
-    *   **Action**: 读取 `.gemini/extensions/video-creator/reference/REF_AI_GEN.md`
+    *   **Action**: 读取 `./reference/REF_AI_GEN.md`
 
     *   **Focus**: 输出 Start Frame Prompt, End Frame Prompt, Camera Motion Prompts。
 
 *   **Game PV (Visuals & Mechanics)**:
 
-    *   **Action**: 读取 `.gemini/extensions/video-creator/reference/REF_GAME_PV.md`
+    *   **Action**: 读取 `./reference/REF_GAME_PV.md`
 
     *   **Focus**: 顿帧 (Hit Stop)、屏幕震动 (Screen Shake)、踩点 (Beat Sync)、角色/版本结构。
 
 *   **Live Action (TVC/Commercial)**:
 
-    *   **Action**: 读取 `.gemini/extensions/video-creator/reference/REF_LIVE_ACTION.md`
+    *   **Action**: 读取 `./reference/REF_LIVE_ACTION.md`
 
     *   **Focus**: 推荐器材等级 (Tier A/B/C)、布光策略、PPM 重点。
 
 *   **Music PV (Lyric/Visualizer)**:
 
-    *   **Action**: 读取 `.gemini/extensions/video-creator/reference/REF_MUSIC_PV.md`
+    *   **Action**: 读取 `./reference/REF_MUSIC_PV.md`
 
     *   **Focus**: 歌词排版、音画同步 (Sync)、BPM 节奏点、氛围营造。
 
