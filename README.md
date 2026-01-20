@@ -7,7 +7,7 @@
 *   **多模态支持**:
     *   🎬 **Live Action**: 实拍 TVC/短片 (含器材清单/布光方案)。
     *   🎨 **2D Animation**: MG 动画/扁平风格 (含旁白与视觉节奏)。
-    *   📦 **3D Product**: 产品渲染/爆炸图展示。
+    *   🧊 **3D Animation**: 角色表演/场景氛围/产品渲染 (含动作捕捉/体积光)。
     *   🤖 **AI Gen**: 适配 Gen-2/Sora 的提示词工程 (Start/End Prompts)。
     *   🎮 **Game PV**: 游戏版本/角色/剧情预告 (含顿帧/打击感设计)。
     *   🎵 **Music PV**: 歌词 PV/MV (含音画同步/BPM分析)。
@@ -22,7 +22,7 @@ video-creator/
 ├── gemini-extension.json # 扩展元数据
 ├── reference/          # 专业知识库 (Reference)
 │   ├── REF_2D_ANIMATION.md
-│   ├── REF_3D_PRODUCT.md
+│   ├── REF_3D_ANIMATION.md
 │   ├── REF_AI_GEN.md
 │   ├── REF_GAME_PV.md
 │   ├── REF_LIVE_ACTION.md

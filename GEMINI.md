@@ -53,11 +53,11 @@
 
     *   **Focus**: 肢体语言、节奏剪辑、图形转场、旁白/动态文字同步。
 
-*   **3D 动画 (Product/Commercial)**:
+*   **3D 动画 (Product/Character/Scene)**:
 
-    *   **Action**: 读取 `./reference/REF_3D_PRODUCT.md`
+    *   **Action**: 读取 `./reference/REF_3D_ANIMATION.md`
 
-    *   **Focus**: 材质展示、爆炸图 (Exploded View)、连贯运镜。
+    *   **Focus**: 角色表演 (Acting)、环境叙事、体积光、材质与爆炸图。
 
 *   **AI 生成 (AIGC/Gen-AI)**:
 
